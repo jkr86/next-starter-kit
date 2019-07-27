@@ -1,13 +1,16 @@
 import React from "react";
 import Layout from "../layout";
 import Style from "./style";
+import Links from "../commonComponents/quickLinks";
+import Canvas from "./canvasHeader";
 
 const index = () => {
     return (
         <div>
             <Layout>
-                <div className="container homePage">
-                    <h1>Homepage works</h1>
+                <div className="homePage">
+                <Canvas/>
+                    <Links/>
                 </div>
             </Layout>
             <Style/>

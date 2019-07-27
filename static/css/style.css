@@ -1,262 +1,44 @@
-body{
-    padding: 0;
-    margin: 0;
-    /*font-family: 'Montserrat';*/
-    /*font-family: 'Poppins';*/
-    font-family: 'Raleway', sans-serif;
-
-
-}
-
-@font-face {
-    font-family: 'Montserrat';
-    src: url('/static/fonts/Montserrat-Medium.ttf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Montserrat';
-    src: url('/static/fonts/Montserrat-SemiBold.ttf') format('truetype');
-    font-weight: 600;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Montserrat';
-    src: url('/static/fonts/Montserrat-SemiBold.ttf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Montserrat';
-    src: url('/static/fonts/Montserrat-Light.ttf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Montserrat';
-    src: url('/static/fonts/Montserrat-Bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
-
-/*poppins*/
-@font-face {
-    font-family: 'Poppins';
-    src: url('/static/fonts/Poppins-Bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Poppins';
-    src: url('/static/fonts/Poppins-SemiBold.ttf') format('truetype');
-    font-weight: 600;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Poppins';
-    src: url('/static/fonts/Poppins-Light.ttf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Poppins';
-    src: url('/static/fonts/Poppins-Regular.ttf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Poppins';
-    src: url('/static/fonts/Poppins-Medium.ttf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-}
-html{
-    scroll-behavior: smooth;
-}
-
-/*font-styles*/
-.f-f-p{
-    font-family: 'Poppins', sans-serif!important;
-}
-.f-f-m{
-    font-family: 'Montserrat', sans-serif!important;
-}
-/*Font Styles End*/
-
-
-/*font-sizes-starts*/
-.f-s-9{
-    font-size: 9px;
-}
-.f-s-10{
-    font-size: 10px !important;
-}
-.f-s-12{
-    font-size: 12px !important;
-}
-.f-s-13{
-    font-size: 13px !important;
-}
-.f-s-14{
-    font-size: 14px !important;
-}
-.f-s-15{
-    font-size: 15px !important;
-}
-.f-s-16{
-    font-size: 16px !important;
-}
-.f-s-18{
-    font-size: 18px !important;
-}
-.f-s-19{
-    font-size: 19px !important;
-}
-.f-s-20{
-    font-size: 20px !important;
-}
-.f-s-21{
-    font-size: 21px !important;
-}
-.f-s-24{
-    font-size: 24px !important;
-}
-.f-s-26{
-    font-size: 26px !important;
-}
-.f-s-27{
-    font-size: 27px !important;
-}
-.f-s-30{
-    font-size: 30px !important;
-}
-.f-s-35{
-    font-size: 35px !important;
-}
-.f-s-39{
-    font-size: 39px !important;
-}
-.f-s-60{
-    font-size: 60px !important;
-}
-/*font-sizes-ends*/
-
-/*font-weights-stars*/
-.f-w-b{
-    font-weight: bold;
-}
-.f-w-3{
-    font-weight: 300 !important;
-}
-.f-w-5{
-    font-weight: 500 !important;
-}
-.f-w-6{
-    font-weight: 600 !important;
-}
-.f-w-n{
-    font-weight: normal;
-}
-
-/*colors*/
-.clr-grey{
-    color:#b5b5b5;
-}
-.clr-purp{
-    color: #6200cf;
-}
-.clr-trans{
-    color: #aab2bd;
-}
-.clr-l-blue {
-    color: #04b9ff;
-}
-.clr-d-blue{
-    color: #0095cf;
-}
-.clr-orange{
-    color: #f4bc16;
-}
-.clr-foot{
-    color: #757575;
-}
-.clr-w{
-    color: white;
-}
-
-/*normal text props*/
-.n-text-prop{
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: normal;
-}
-/*normal background props*/
-.n-bg-prop{
-    background-size: cover;
-    background-repeat: no-repeat ;
-    background-position: center;
-}
-/*list-style*/
-ul{
-    margin-bottom: 0;
-}
-ul li{
-    list-style: none;
-    cursor: pointer;
-}
-a{
-    cursor: pointer;
-    color: unset;
-}
-a:hover{
-    color: unset;
-    text-decoration: none;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+html,body{padding: 0;margin: 0;font-family: 'Raleway', sans-serif;height: 100%;width: 100%;display: table;}
+/*Font Sizes*/
+.f-s-9{font-size: 9px;}
+.f-s-10{font-size: 10px;}
+.f-s-12{font-size: 12px;}
+.f-s-13{font-size: 13px;}
+.f-s-14{font-size: 14px;}
+.f-s-15{font-size: 15px;}
+.f-s-16{font-size: 16px;}
+.f-s-18{font-size: 18px;}
+.f-s-19{font-size: 19px;}
+.f-s-20{font-size: 20px;}
+.f-s-21{font-size: 21px;}
+.f-s-24{font-size: 24px;}
+.f-s-26{font-size: 26px;}
+.f-s-27{font-size: 27px;}
+.f-s-30{font-size: 30px;}
+.f-s-35{font-size: 35px;}
+.f-s-39{font-size: 39px;}
+.f-s-60{font-size: 60px;}
+/*Font Weights*/
+.f-w-b{font-weight: bold;}
+.f-w-3{font-weight: 300;}
+.f-w-5{font-weight: 500;}
+.f-w-6{font-weight: 600;}
+.f-w-n{font-weight: normal;}
+/*Colors*/
+.clr-grey{color:#b5b5b5;}
+.clr-purple{color: #6200cf;}
+.clr-trans{color: #aab2bd;}
+.clr-l-blue {color: #04b9ff;}
+.clr-d-blue{ color: #0095cf;}
+.clr-orange{color: #f4bc16;}
+.clr-d-grey{color: #757575;}
+.clr-w{color: white;}
+/*Normal text props*/
+.n-text-prop{font-style: normal;font-stretch: normal;line-height: normal;letter-spacing: normal;}
+/*Normal background props*/
+.n-bg-prop{background-size: cover;background-repeat: no-repeat ;background-position: center;}
+/*List Styles*/
+ul{margin-bottom: 0;}
+ul li{list-style: none;cursor: pointer;}
+a{cursor: pointer;color: unset;}
+a:hover{color: unset;text-decoration: none;}
