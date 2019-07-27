@@ -4,11 +4,16 @@
     <list default="true" id="81602da0-dd23-4f4c-ae7a-fb4fd951046e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/commonComponents/footer/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/commonComponents/footer/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/commonComponents/footer/style.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/commonComponents/footer/style.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/commonComponents/header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/commonComponents/header/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/commonComponents/quickLinks/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/commonComponents/quickLinks/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/homePage/canvasHeader/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/homePage/canvasHeader/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/homePage/canvasHeader/style.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/homePage/canvasHeader/style.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/homePage/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/homePage/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/layout/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/uikit.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/uikit.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/uikit.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/uikit-icons.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/uikit.min.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/components/commonComponents/footer/index.tsx">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/homePage/canvasHeader/index.tsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -34,10 +39,79 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/commonComponents/footer/style.tsx">
+        <entry file="file://$PROJECT_DIR$/components/homePage/canvasHeader/style.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/layout/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/commonComponents/header/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/commonComponents/quickLinks/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/commonComponents/footer/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/homePage/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,15 +152,18 @@
         <option value="$PROJECT_DIR$/components/commonComponents/header/index.js" />
         <option value="$PROJECT_DIR$/components/commonComponents/header/style.tsx" />
         <option value="$PROJECT_DIR$/components/homePage/style.tsx" />
-        <option value="$PROJECT_DIR$/components/layout/index.tsx" />
         <option value="$PROJECT_DIR$/static/css/uikit.min.css" />
-        <option value="$PROJECT_DIR$/components/commonComponents/header/index.tsx" />
         <option value="$PROJECT_DIR$/components/commonComponents/quickLinks/style.tsx" />
-        <option value="$PROJECT_DIR$/components/homePage/index.tsx" />
-        <option value="$PROJECT_DIR$/components/commonComponents/quickLinks/index.tsx" />
-        <option value="$PROJECT_DIR$/static/css/style.css" />
         <option value="$PROJECT_DIR$/components/commonComponents/footer/style.tsx" />
+        <option value="$PROJECT_DIR$/components/homePage/index.tsx" />
+        <option value="$PROJECT_DIR$/static/js/canvas.js" />
+        <option value="$PROJECT_DIR$/components/homePage/canvasHeader/index.tsx" />
+        <option value="$PROJECT_DIR$/components/homePage/canvasHeader/style.tsx" />
+        <option value="$PROJECT_DIR$/components/layout/index.tsx" />
         <option value="$PROJECT_DIR$/components/commonComponents/footer/index.tsx" />
+        <option value="$PROJECT_DIR$/components/commonComponents/header/index.tsx" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/components/commonComponents/quickLinks/index.tsx" />
       </list>
     </option>
   </component>
@@ -127,30 +204,13 @@
               <item name="next-starter-kit" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="commonComponents" type="462c0819:PsiDirectoryNode" />
-              <item name="footer" type="462c0819:PsiDirectoryNode" />
+              <item name="quickLinks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="next-starter-kit" type="b2602c69:ProjectViewProjectNode" />
               <item name="next-starter-kit" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="homePage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="next-starter-kit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="next-starter-kit" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="next-starter-kit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="next-starter-kit" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="next-starter-kit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="next-starter-kit" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,15 +267,16 @@
       <workItem from="1564239311359" duration="1558000" />
       <workItem from="1564241621191" duration="1769000" />
       <workItem from="1564243466793" duration="1894000" />
+      <workItem from="1564261476672" duration="1697000" />
+      <workItem from="1564264228953" duration="601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12348000" />
+    <option name="totallyTimeSpent" value="14646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -325,10 +386,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/components/commonComponents/quickLinks/style.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/commonComponents/footer/style.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/canvas.js" />
+    <entry file="file://$PROJECT_DIR$/components/homePage/canvasHeader/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/homePage/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/homePage/canvasHeader/style.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/components/layout/index.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        <state relative-caret-position="90">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/commonComponents/footer/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -337,35 +450,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/commonComponents/header/index.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="7" column="81" selection-end-line="27" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/commonComponents/quickLinks/style.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/homePage/index.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/commonComponents/quickLinks/index.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        <state relative-caret-position="25">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -374,22 +460,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="23">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/commonComponents/footer/style.tsx">
+    <entry file="file://$PROJECT_DIR$/components/commonComponents/quickLinks/index.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/commonComponents/footer/index.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        <state relative-caret-position="92">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

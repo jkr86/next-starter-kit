@@ -9,8 +9,8 @@ const index = () => {
         <div>
             <Layout>
                 <div className="homePage">
-                <Canvas/>
-                    <Links/>
+                    <Canvas/>
+                    {/*<Links/>*/}
                 </div>
             </Layout>
             <Style/>

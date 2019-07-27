@@ -1,4 +1,5 @@
-html,body{padding: 0;margin: 0;font-family: 'Raleway', sans-serif;height: 100%;width: 100%;display: table;}
+html,body{padding: 0;margin: 0;font-family: 'Raleway', sans-serif;display: flex;min-height: 100vh;flex-direction: column;}
+main {flex: 1 0 auto;}
 /*Font Sizes*/
 .f-s-9{font-size: 9px;}
 .f-s-10{font-size: 10px;}

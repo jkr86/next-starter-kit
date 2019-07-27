@@ -2,7 +2,7 @@ import React from "react";
 import Style from "./style";
 const Links = () => {
     return (
-        <div className="uk-container links">
+        <div className="container links">
             <h1>Quick Links</h1>
             <p>Inspired from ICC Cricket World Cup 2019 Official <a href="https://www.cricketworldcup.com"
                                                                     target="_blank">Website.</a></p>

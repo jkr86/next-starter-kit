@@ -4,21 +4,15 @@ import Style from "./style";
 
 const Header = () => {
     return (
-        <div className="container-fluid p-0 mr-0">
-            <nav className="uk-navbar-container uk-margin uk-animation-slide-top" uk-navbar="true">
-                <div className="uk-navbar-left uk-margin-medium-left">
-                    <a className="uk-navbar-item uk-logo" href="#">Logo</a>
-                </div>
-                <div className="uk-navbar-right uk-margin-medium-right">
-                    <div className="uk-navbar-item ">
-                        <a>About</a>
-                    </div>
-                    <div className="uk-navbar-item">
-                        <a>News</a>
-                    </div>
-                    <div className="uk-navbar-item">
-                        <a>Contact Us</a>
-                    </div>
+        <div className="navbar">
+            <nav>
+                <div className="nav-wrapper">
+                    <a href="#" className="brand-logo">Logo</a>
+                    <ul id="nav-mobile" className="right hide-on-med-and-down">
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                    </ul>
                 </div>
             </nav>
             <Style/>

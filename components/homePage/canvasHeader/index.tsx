@@ -4,8 +4,7 @@ import Style from "./style";
 const index = () => {
     return (
         <div>
-            
-            
+
             <Style/>
         </div>
 
